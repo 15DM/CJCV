@@ -8,6 +8,12 @@
 
 }
 
+@import url('pictonic.css');
+
+ html, body{
+  	-webkit-print-color-adjust: exact;
+  }
+
 .contact{
 	text-align: right;
 }
